@@ -1,0 +1,11 @@
+
+
+
+// Instantiate the module
+SignExtend instance_name (
+    .inst(inst), 
+    .IMM_SRC(IMM_SRC), 
+    .imm(imm)
+    );
+
+

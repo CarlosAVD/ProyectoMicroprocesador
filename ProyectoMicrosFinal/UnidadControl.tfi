@@ -1,0 +1,27 @@
+
+
+
+// Instantiate the module
+UnidadControl instance_name (
+    .funct7(funct7), 
+    .funct3(funct3), 
+    .opcode(opcode), 
+    .comp(comp), 
+    .CLK(CLK), 
+    .RST(RST), 
+    .WE_Data(WE_Data), 
+    .RE_Data(RE_Data), 
+    .BYTE_STR(BYTE_STR), 
+    .BYTE_LDR(BYTE_LDR), 
+    .IMM_SRC(IMM_SRC), 
+    .WE_Regs(WE_Regs), 
+    .ALU_OP(ALU_OP), 
+    .JALR(JALR), 
+    .PC_SRC(PC_SRC), 
+    .RS1_SRC(RS1_SRC), 
+    .OP1_SRC(OP1_SRC), 
+    .OP2_SRC(OP2_SRC), 
+    .WRITE_SRC(WRITE_SRC)
+    );
+
+

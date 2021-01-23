@@ -1,0 +1,17 @@
+
+
+
+// Instantiate the module
+Memoria instance_name (
+    .ad(ad), 
+    .di(di), 
+    .we(we), 
+    .re(re), 
+    .clk(clk), 
+    .byte_l(byte_l), 
+    .byte_s(byte_s), 
+    .d_o(d_o), 
+    .gpio(gpio)
+    );
+
+

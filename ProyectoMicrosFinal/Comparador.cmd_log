@@ -1,0 +1,3 @@
+xst -intstyle ise -ifn "C:/Users/mvrb9/Desktop/Tec/Micros/proyecto/Proce/ProyectoMicrosFinal/Comparador.xst" -ofn "C:/Users/mvrb9/Desktop/Tec/Micros/proyecto/Proce/ProyectoMicrosFinal/Comparador.syr" 
+xst -intstyle ise -ifn "C:/Users/mvrb9/Desktop/Tec/Micros/proyecto/Proce/ProyectoMicrosFinal/Comparador.xst" -ofn "C:/Users/mvrb9/Desktop/Tec/Micros/proyecto/Proce/ProyectoMicrosFinal/Comparador.syr" 
+vhdtdtfi -lang verilog -prj ProyectoMicrosFinal -o C:/Users/mvrb9/Desktop/Tec/Micros/proyecto/Proce/ProyectoMicrosFinal/Comparador.tfi -lib work C:/Users/mvrb9/Desktop/Tec/Micros/proyecto/Proce/ProyectoMicrosFinal//Comparador.v -module Comparador -template D:/Verilog/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

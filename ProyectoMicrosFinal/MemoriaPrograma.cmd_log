@@ -1,0 +1,3 @@
+xst -intstyle ise -ifn "C:/Users/mvrb9/Desktop/Tec/Micros/proyecto/Proce/ProyectoMicrosFinal/MemoriaPrograma.xst" -ofn "C:/Users/mvrb9/Desktop/Tec/Micros/proyecto/Proce/ProyectoMicrosFinal/MemoriaPrograma.syr" 
+xst -intstyle ise -ifn "C:/Users/mvrb9/Desktop/Tec/Micros/proyecto/Proce/ProyectoMicrosFinal/MemoriaPrograma.xst" -ofn "C:/Users/mvrb9/Desktop/Tec/Micros/proyecto/Proce/ProyectoMicrosFinal/MemoriaPrograma.syr" 
+vhdtdtfi -lang verilog -prj ProyectoMicrosFinal -o C:/Users/mvrb9/Desktop/Tec/Micros/proyecto/Proce/ProyectoMicrosFinal/MemoriaPrograma.tfi -lib work C:/Users/mvrb9/Desktop/Tec/Micros/proyecto/Proce/ProyectoMicrosFinal//MemoriaPrograma.v -module MemoriaPrograma -template D:/Verilog/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

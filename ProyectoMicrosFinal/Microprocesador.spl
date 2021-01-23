@@ -1,0 +1,8 @@
+[Inputs]
+Clk
+Reset
+[Outputs]
+[BiDir]
+[ATTRIBUTES]
+VeriModel Microprocesador
+

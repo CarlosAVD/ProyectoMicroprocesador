@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "C:/Users/mvrb9/Desktop/Tec/Micros/proyecto/Proce/ProyectoMicrosFinal/ALU.xst" -ofn "C:/Users/mvrb9/Desktop/Tec/Micros/proyecto/Proce/ProyectoMicrosFinal/ALU.syr" 
+xst -intstyle ise -ifn "C:/Users/mvrb9/Desktop/Tec/Micros/proyecto/Proce/ProyectoMicrosFinal/ALU.xst" -ofn "C:/Users/mvrb9/Desktop/Tec/Micros/proyecto/Proce/ProyectoMicrosFinal/ALU.syr" 
+xst -intstyle ise -ifn "C:/Users/mvrb9/Desktop/Tec/Micros/proyecto/Proce/ProyectoMicrosFinal/ALU.xst" -ofn "C:/Users/mvrb9/Desktop/Tec/Micros/proyecto/Proce/ProyectoMicrosFinal/ALU.syr" 
+xst -intstyle ise -ifn "C:/Users/mvrb9/Desktop/Tec/Micros/proyecto/Proce/ProyectoMicrosFinal/ALU.xst" -ofn "C:/Users/mvrb9/Desktop/Tec/Micros/proyecto/Proce/ProyectoMicrosFinal/ALU.syr" 
+vhdtdtfi -lang verilog -prj ProyectoMicrosFinal -o C:/Users/mvrb9/Desktop/Tec/Micros/proyecto/Proce/ProyectoMicrosFinal/ALU.tfi -lib work C:/Users/mvrb9/Desktop/Tec/Micros/proyecto/Proce/ProyectoMicrosFinal//ALU.v -module ALU -template D:/Verilog/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

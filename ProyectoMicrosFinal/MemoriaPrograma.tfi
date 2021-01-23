@@ -1,0 +1,12 @@
+
+
+
+// Instantiate the module
+MemoriaPrograma instance_name (
+    .clk(clk), 
+    .rst(rst), 
+    .pc(pc), 
+    .inst(inst)
+    );
+
+

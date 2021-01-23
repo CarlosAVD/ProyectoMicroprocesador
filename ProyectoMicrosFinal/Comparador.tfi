@@ -1,0 +1,11 @@
+
+
+
+// Instantiate the module
+Comparador instance_name (
+    .reg1(reg1), 
+    .reg2(reg2), 
+    .Comparador_Salida(Comparador_Salida)
+    );
+
+

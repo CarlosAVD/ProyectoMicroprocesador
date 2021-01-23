@@ -1,0 +1,13 @@
+
+
+
+// Instantiate the module
+ALU instance_name (
+    .JALR(JALR), 
+    .ALU_OP(ALU_OP), 
+    .OP1(OP1), 
+    .OP2(OP2), 
+    .ALU_Salida(ALU_Salida)
+    );
+
+

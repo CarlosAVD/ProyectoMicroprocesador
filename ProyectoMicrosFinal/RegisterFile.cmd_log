@@ -1,0 +1,3 @@
+xst -intstyle ise -ifn "C:/Users/mvrb9/Desktop/Tec/Micros/proyecto/Proce/ProyectoMicrosFinal/RegisterFile.xst" -ofn "C:/Users/mvrb9/Desktop/Tec/Micros/proyecto/Proce/ProyectoMicrosFinal/RegisterFile.syr" 
+vhdtdtfi -lang verilog -prj ProyectoMicrosFinal -o C:/Users/mvrb9/Desktop/Tec/Micros/proyecto/Proce/ProyectoMicrosFinal/RegisterFile.tfi -lib work C:/Users/mvrb9/Desktop/Tec/Micros/proyecto/Proce/ProyectoMicrosFinal//RegisterFile.v -module RegisterFile -template D:/Verilog/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+xst -intstyle ise -ifn "C:/Users/mvrb9/Desktop/Tec/Micros/proyecto/Proce/ProyectoMicrosFinal/RegisterFile.xst" -ofn "C:/Users/mvrb9/Desktop/Tec/Micros/proyecto/Proce/ProyectoMicrosFinal/RegisterFile.syr" 

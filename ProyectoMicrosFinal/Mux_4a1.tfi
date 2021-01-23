@@ -1,0 +1,13 @@
+
+
+
+// Instantiate the module
+Mux_4a1 instance_name (
+    .Ctrl(Ctrl), 
+    .Entrada1(Entrada1), 
+    .Entrada2(Entrada2), 
+    .Entrada3(Entrada3), 
+    .Mux_Out(Mux_Out)
+    );
+
+

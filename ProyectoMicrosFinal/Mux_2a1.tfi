@@ -1,0 +1,12 @@
+
+
+
+// Instantiate the module
+Mux_2a1 instance_name (
+    .Entrada1(Entrada1), 
+    .Entrada2(Entrada2), 
+    .Mux_Out(Mux_Out), 
+    .OP1_SRC(OP1_SRC)
+    );
+
+

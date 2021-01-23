@@ -1,0 +1,13 @@
+
+
+
+// Instantiate the module
+RegistroPC instance_name (
+    .Clk(Clk), 
+    .Reset(Reset), 
+    .PC_In(PC_In), 
+    .PC_Out(PC_Out), 
+    .PC_Out_Sig(PC_Out_Sig)
+    );
+
+

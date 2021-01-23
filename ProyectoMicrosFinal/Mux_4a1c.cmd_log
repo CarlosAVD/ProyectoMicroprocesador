@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj ProyectoMicrosFinal -o C:/Users/mvrb9/Desktop/Tec/Micros/proyecto/Proce/ProyectoMicrosFinal/Mux_4a1c.tfi -lib work C:/Users/mvrb9/Desktop/Tec/Micros/proyecto/Proce/ProyectoMicrosFinal//Mux_4a1c.v -module Mux_4a1c -template D:/Verilog/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
